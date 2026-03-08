@@ -41,8 +41,9 @@ A simple desktop calculator built with **C#** and **Windows Forms** in Visual St
 ---
 
 ## 📸 Screenshot
+<img width="320" height="485" alt="image" src="https://github.com/user-attachments/assets/4f00c337-170c-4a5d-ae08-d990afeb2531" />
 
-> *Add a screenshot of your app here*
+
 
 ---
 
