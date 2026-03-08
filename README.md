@@ -56,4 +56,4 @@ A simple desktop calculator built with **C#** and **Windows Forms** in Visual St
 
 ---
 
-*Made as a learning project — 2nd year, Automatică și Informatică Aplicată, Universitatea Transilvania Brașov*
+*Made as a learning project — 1nd year, Automatică și Informatică Aplicată, Universitatea Transilvania Brașov*
